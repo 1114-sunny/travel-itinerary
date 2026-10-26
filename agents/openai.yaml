@@ -1,0 +1,4 @@
+interface:
+  display_name: "맛집·관광 여행 플래너"
+  short_description: "목적지별 맛집·관광 동선, 우천 대안과 네이버 후기 3개를 담은 여행 일정"
+  default_prompt: "$travel-itinerary 스킬로 내가 지정한 여행지의 맛집·관광 중심 일정과 우천 대체 코스를 만들고, 맨 아래에 관련 네이버 블로그 글 3개를 추가해 줘."
